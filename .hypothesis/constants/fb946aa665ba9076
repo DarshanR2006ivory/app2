@@ -1,0 +1,4 @@
+# file: D:\project\app2\src\image_processor.py
+# hypothesis_version: 6.151.10
+
+[255.0, 1000.0, '.fit', '.fits', '.jpeg', '.jpg', '.png', '.tif', '.tiff', 'directory', 'fits', 'http', 'rtsp', 'video']

@@ -1,0 +1,4 @@
+# file: D:\project\app2\src\main.py
+# hypothesis_version: 6.151.10
+
+['--config', '--module', '--server.port', '-m', 'Safe', '__main__', 'alert_manager', 'api_client', 'config.yaml', 'dashboard', 'data_store', 'detector', 'image_processor', 'inf', 'run', 'src/dashboard.py', 'streamlit', 'threat_classifier', 'tracker', 'trajectory_predictor']

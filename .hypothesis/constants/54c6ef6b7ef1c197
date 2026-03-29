@@ -1,0 +1,4 @@
+# file: D:\project\app2\src\detector.py
+# hypothesis_version: 6.151.10
+
+[255.0, 'cpu', 'custom', 'numel', 'onnx', 'pytorch', 'ultralytics/yolov5', 'ultralytics/yolov8', 'yolov5', 'yolov8']

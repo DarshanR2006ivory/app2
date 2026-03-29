@@ -1,0 +1,1059 @@
+{
+  "n_frames": 50,
+  "width": 640,
+  "height": 480,
+  "format": "png",
+  "n_asteroids": 1,
+  "frames": [
+    {
+      "frame_index": 0,
+      "asteroids": [
+        {
+          "centroid_x": 98.0,
+          "centroid_y": 344.0,
+          "bbox": [
+            90,
+            331,
+            106,
+            357
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000000.png"
+    },
+    {
+      "frame_index": 1,
+      "asteroids": [
+        {
+          "centroid_x": 97.63327063851231,
+          "centroid_y": 346.1515875194683,
+          "bbox": [
+            89,
+            333,
+            105,
+            359
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000001.png"
+    },
+    {
+      "frame_index": 2,
+      "asteroids": [
+        {
+          "centroid_x": 97.26654127702463,
+          "centroid_y": 348.3031750389366,
+          "bbox": [
+            89,
+            335,
+            105,
+            361
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000002.png"
+    },
+    {
+      "frame_index": 3,
+      "asteroids": [
+        {
+          "centroid_x": 96.89981191553694,
+          "centroid_y": 350.45476255840487,
+          "bbox": [
+            88,
+            337,
+            104,
+            363
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000003.png"
+    },
+    {
+      "frame_index": 4,
+      "asteroids": [
+        {
+          "centroid_x": 96.53308255404926,
+          "centroid_y": 352.6063500778732,
+          "bbox": [
+            88,
+            339,
+            104,
+            365
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000004.png"
+    },
+    {
+      "frame_index": 5,
+      "asteroids": [
+        {
+          "centroid_x": 96.16635319256157,
+          "centroid_y": 354.7579375973415,
+          "bbox": [
+            88,
+            341,
+            104,
+            367
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000005.png"
+    },
+    {
+      "frame_index": 6,
+      "asteroids": [
+        {
+          "centroid_x": 95.79962383107389,
+          "centroid_y": 356.9095251168098,
+          "bbox": [
+            87,
+            343,
+            103,
+            369
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000006.png"
+    },
+    {
+      "frame_index": 7,
+      "asteroids": [
+        {
+          "centroid_x": 95.4328944695862,
+          "centroid_y": 359.06111263627804,
+          "bbox": [
+            87,
+            346,
+            103,
+            372
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000007.png"
+    },
+    {
+      "frame_index": 8,
+      "asteroids": [
+        {
+          "centroid_x": 95.06616510809852,
+          "centroid_y": 361.21270015574635,
+          "bbox": [
+            87,
+            348,
+            103,
+            374
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000008.png"
+    },
+    {
+      "frame_index": 9,
+      "asteroids": [
+        {
+          "centroid_x": 94.69943574661082,
+          "centroid_y": 363.36428767521465,
+          "bbox": [
+            86,
+            350,
+            102,
+            376
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000009.png"
+    },
+    {
+      "frame_index": 10,
+      "asteroids": [
+        {
+          "centroid_x": 94.33270638512313,
+          "centroid_y": 365.51587519468296,
+          "bbox": [
+            86,
+            352,
+            102,
+            378
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000010.png"
+    },
+    {
+      "frame_index": 11,
+      "asteroids": [
+        {
+          "centroid_x": 93.96597702363545,
+          "centroid_y": 367.66746271415127,
+          "bbox": [
+            85,
+            354,
+            101,
+            380
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000011.png"
+    },
+    {
+      "frame_index": 12,
+      "asteroids": [
+        {
+          "centroid_x": 93.59924766214776,
+          "centroid_y": 369.8190502336195,
+          "bbox": [
+            85,
+            356,
+            101,
+            382
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000012.png"
+    },
+    {
+      "frame_index": 13,
+      "asteroids": [
+        {
+          "centroid_x": 93.23251830066008,
+          "centroid_y": 371.97063775308783,
+          "bbox": [
+            85,
+            358,
+            101,
+            384
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000013.png"
+    },
+    {
+      "frame_index": 14,
+      "asteroids": [
+        {
+          "centroid_x": 92.86578893917239,
+          "centroid_y": 374.12222527255614,
+          "bbox": [
+            84,
+            361,
+            100,
+            387
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000014.png"
+    },
+    {
+      "frame_index": 15,
+      "asteroids": [
+        {
+          "centroid_x": 92.4990595776847,
+          "centroid_y": 376.27381279202444,
+          "bbox": [
+            84,
+            363,
+            100,
+            389
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000015.png"
+    },
+    {
+      "frame_index": 16,
+      "asteroids": [
+        {
+          "centroid_x": 92.13233021619702,
+          "centroid_y": 378.4254003114927,
+          "bbox": [
+            84,
+            365,
+            100,
+            391
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000016.png"
+    },
+    {
+      "frame_index": 17,
+      "asteroids": [
+        {
+          "centroid_x": 91.76560085470933,
+          "centroid_y": 380.576987830961,
+          "bbox": [
+            83,
+            367,
+            99,
+            393
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000017.png"
+    },
+    {
+      "frame_index": 18,
+      "asteroids": [
+        {
+          "centroid_x": 91.39887149322165,
+          "centroid_y": 382.7285753504293,
+          "bbox": [
+            83,
+            369,
+            99,
+            395
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000018.png"
+    },
+    {
+      "frame_index": 19,
+      "asteroids": [
+        {
+          "centroid_x": 91.03214213173396,
+          "centroid_y": 384.8801628698976,
+          "bbox": [
+            83,
+            371,
+            99,
+            397
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000019.png"
+    },
+    {
+      "frame_index": 20,
+      "asteroids": [
+        {
+          "centroid_x": 90.66541277024628,
+          "centroid_y": 387.0317503893659,
+          "bbox": [
+            82,
+            374,
+            98,
+            400
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000020.png"
+    },
+    {
+      "frame_index": 21,
+      "asteroids": [
+        {
+          "centroid_x": 90.29868340875859,
+          "centroid_y": 389.1833379088342,
+          "bbox": [
+            82,
+            376,
+            98,
+            402
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000021.png"
+    },
+    {
+      "frame_index": 22,
+      "asteroids": [
+        {
+          "centroid_x": 89.9319540472709,
+          "centroid_y": 391.3349254283025,
+          "bbox": [
+            81,
+            378,
+            97,
+            404
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000022.png"
+    },
+    {
+      "frame_index": 23,
+      "asteroids": [
+        {
+          "centroid_x": 89.56522468578322,
+          "centroid_y": 393.4865129477708,
+          "bbox": [
+            81,
+            380,
+            97,
+            406
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000023.png"
+    },
+    {
+      "frame_index": 24,
+      "asteroids": [
+        {
+          "centroid_x": 89.19849532429552,
+          "centroid_y": 395.6381004672391,
+          "bbox": [
+            81,
+            382,
+            97,
+            408
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000024.png"
+    },
+    {
+      "frame_index": 25,
+      "asteroids": [
+        {
+          "centroid_x": 88.83176596280785,
+          "centroid_y": 397.78968798670735,
+          "bbox": [
+            80,
+            384,
+            96,
+            410
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000025.png"
+    },
+    {
+      "frame_index": 26,
+      "asteroids": [
+        {
+          "centroid_x": 88.46503660132015,
+          "centroid_y": 399.94127550617566,
+          "bbox": [
+            80,
+            386,
+            96,
+            412
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000026.png"
+    },
+    {
+      "frame_index": 27,
+      "asteroids": [
+        {
+          "centroid_x": 88.09830723983247,
+          "centroid_y": 402.09286302564396,
+          "bbox": [
+            80,
+            389,
+            96,
+            415
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000027.png"
+    },
+    {
+      "frame_index": 28,
+      "asteroids": [
+        {
+          "centroid_x": 87.73157787834478,
+          "centroid_y": 404.2444505451123,
+          "bbox": [
+            79,
+            391,
+            95,
+            417
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000028.png"
+    },
+    {
+      "frame_index": 29,
+      "asteroids": [
+        {
+          "centroid_x": 87.3648485168571,
+          "centroid_y": 406.3960380645806,
+          "bbox": [
+            79,
+            393,
+            95,
+            419
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000029.png"
+    },
+    {
+      "frame_index": 30,
+      "asteroids": [
+        {
+          "centroid_x": 86.99811915536941,
+          "centroid_y": 408.5476255840489,
+          "bbox": [
+            78,
+            395,
+            94,
+            421
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000030.png"
+    },
+    {
+      "frame_index": 31,
+      "asteroids": [
+        {
+          "centroid_x": 86.63138979388172,
+          "centroid_y": 410.69921310351714,
+          "bbox": [
+            78,
+            397,
+            94,
+            423
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000031.png"
+    },
+    {
+      "frame_index": 32,
+      "asteroids": [
+        {
+          "centroid_x": 86.26466043239404,
+          "centroid_y": 412.85080062298545,
+          "bbox": [
+            78,
+            399,
+            94,
+            425
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000032.png"
+    },
+    {
+      "frame_index": 33,
+      "asteroids": [
+        {
+          "centroid_x": 85.89793107090635,
+          "centroid_y": 415.00238814245375,
+          "bbox": [
+            77,
+            402,
+            93,
+            428
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000033.png"
+    },
+    {
+      "frame_index": 34,
+      "asteroids": [
+        {
+          "centroid_x": 85.53120170941867,
+          "centroid_y": 417.153975661922,
+          "bbox": [
+            77,
+            404,
+            93,
+            430
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000034.png"
+    },
+    {
+      "frame_index": 35,
+      "asteroids": [
+        {
+          "centroid_x": 85.16447234793098,
+          "centroid_y": 419.3055631813903,
+          "bbox": [
+            77,
+            406,
+            93,
+            432
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000035.png"
+    },
+    {
+      "frame_index": 36,
+      "asteroids": [
+        {
+          "centroid_x": 84.7977429864433,
+          "centroid_y": 421.4571507008586,
+          "bbox": [
+            76,
+            408,
+            92,
+            434
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000036.png"
+    },
+    {
+      "frame_index": 37,
+      "asteroids": [
+        {
+          "centroid_x": 84.43101362495561,
+          "centroid_y": 423.6087382203269,
+          "bbox": [
+            76,
+            410,
+            92,
+            436
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000037.png"
+    },
+    {
+      "frame_index": 38,
+      "asteroids": [
+        {
+          "centroid_x": 84.06428426346793,
+          "centroid_y": 425.76032573979523,
+          "bbox": [
+            76,
+            412,
+            92,
+            438
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000038.png"
+    },
+    {
+      "frame_index": 39,
+      "asteroids": [
+        {
+          "centroid_x": 83.69755490198023,
+          "centroid_y": 427.91191325926354,
+          "bbox": [
+            75,
+            414,
+            91,
+            440
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000039.png"
+    },
+    {
+      "frame_index": 40,
+      "asteroids": [
+        {
+          "centroid_x": 83.33082554049255,
+          "centroid_y": 430.0635007787318,
+          "bbox": [
+            75,
+            417,
+            91,
+            443
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000040.png"
+    },
+    {
+      "frame_index": 41,
+      "asteroids": [
+        {
+          "centroid_x": 82.96409617900486,
+          "centroid_y": 432.2150882982001,
+          "bbox": [
+            74,
+            419,
+            90,
+            445
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000041.png"
+    },
+    {
+      "frame_index": 42,
+      "asteroids": [
+        {
+          "centroid_x": 82.59736681751717,
+          "centroid_y": 434.3666758176684,
+          "bbox": [
+            74,
+            421,
+            90,
+            447
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000042.png"
+    },
+    {
+      "frame_index": 43,
+      "asteroids": [
+        {
+          "centroid_x": 82.23063745602948,
+          "centroid_y": 436.51826333713666,
+          "bbox": [
+            74,
+            423,
+            90,
+            449
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000043.png"
+    },
+    {
+      "frame_index": 44,
+      "asteroids": [
+        {
+          "centroid_x": 81.8639080945418,
+          "centroid_y": 438.66985085660497,
+          "bbox": [
+            73,
+            425,
+            89,
+            451
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000044.png"
+    },
+    {
+      "frame_index": 45,
+      "asteroids": [
+        {
+          "centroid_x": 81.49717873305411,
+          "centroid_y": 440.8214383760733,
+          "bbox": [
+            73,
+            427,
+            89,
+            453
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000045.png"
+    },
+    {
+      "frame_index": 46,
+      "asteroids": [
+        {
+          "centroid_x": 81.13044937156643,
+          "centroid_y": 442.9730258955416,
+          "bbox": [
+            73,
+            429,
+            89,
+            455
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000046.png"
+    },
+    {
+      "frame_index": 47,
+      "asteroids": [
+        {
+          "centroid_x": 80.76372001007874,
+          "centroid_y": 445.1246134150099,
+          "bbox": [
+            72,
+            432,
+            88,
+            458
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000047.png"
+    },
+    {
+      "frame_index": 48,
+      "asteroids": [
+        {
+          "centroid_x": 80.39699064859106,
+          "centroid_y": 447.2762009344782,
+          "bbox": [
+            72,
+            434,
+            88,
+            460
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000048.png"
+    },
+    {
+      "frame_index": 49,
+      "asteroids": [
+        {
+          "centroid_x": 80.03026128710337,
+          "centroid_y": 449.42778845394645,
+          "bbox": [
+            72,
+            436,
+            88,
+            462
+          ],
+          "width": 16,
+          "height": 26,
+          "brightness": 171,
+          "vx": -0.3667293614876863,
+          "vy": 2.151587519468295
+        }
+      ],
+      "png_file": "frame_000049.png"
+    }
+  ]
+}

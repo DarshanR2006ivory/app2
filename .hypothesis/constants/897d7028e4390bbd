@@ -1,0 +1,4 @@
+# file: D:\project\app2\src\simulator.py
+# hypothesis_version: 6.151.10
+
+[-3.0, 0.001, 3.0, 4.0, 150, 200, 255, 360, 480, 640, '--format', '--height', '--n-asteroids', '--n-frames', '--output', '--seed', '--width', './data/sim_frames', 'COMMENT', '__main__', 'asteroids', 'bbox', 'both', 'brightness', 'centroid_x', 'centroid_y', 'fits', 'fits_file', 'format', 'frame_index', 'frames', 'height', 'metadata.json', 'n_asteroids', 'n_frames', 'png', 'png_file', 'utf-8', 'vx', 'vy', 'w', 'width']

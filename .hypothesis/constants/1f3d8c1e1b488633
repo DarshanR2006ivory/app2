@@ -1,0 +1,4 @@
+# file: D:\project\app2\src\alert_manager.py
+# hypothesis_version: 6.151.10
+
+[', ', 'Dangerous', 'From', 'Subject', 'To', 'alert_delivery', 'email', 'failed', 'high', 'medium', 'plain', 'sent', 'sms', 'suppressed', 'unknown', 'visual']

@@ -1,0 +1,12 @@
+image_processor:
+  source_type: directory
+  source_path: ./data/sim_frames
+
+detector:
+  model_type: yolov8
+  model_path: ./models/asteroid_yolov8.pt
+  confidence_threshold: 0.5
+
+data_store:
+  backend: sqlite
+  sqlite_path: ./data/asteroid_monitor.db

@@ -1,0 +1,16 @@
+pyyaml>=6.0
+numpy>=1.24
+opencv-python>=4.8
+ultralytics>=8.0
+onnxruntime>=1.16
+torch>=2.0
+filterpy>=1.4
+scipy>=1.11
+astropy>=5.3
+sqlalchemy>=2.0
+requests>=2.31
+streamlit>=1.28
+plotly>=5.17
+hypothesis>=6.88
+pytest>=7.4
+pytest-hypothesis
